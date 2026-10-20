@@ -1,0 +1,5 @@
+library(readr)
+ups <- read_csv("data-raw/upworthy-archive-exploratory-packages-03.12.2020.csv")
+nrow(ups)
+names(ups)
+head(ups)
