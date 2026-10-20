@@ -81,3 +81,5 @@
 4. The confirmatory file is downloadable on OSF, but the About page says
    it is shared with researchers whose analysis plans are peer reviewed.
    Can we use it as our holdout, and how should we credit it?
+
+5. The editors’ winner was the version with the highest click rate. Is that always true, or did editors sometimes pick a version that didn’t have the highest click rate?
