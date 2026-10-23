@@ -1,0 +1,18 @@
+version: 2
+models:
+  - name: stg_packages
+    columns:
+      - name: package_row_id
+        data_tests:
+          - not_null
+      - name: test_id
+        data_tests:
+          - unique
+          - not_null
+
+      - name: impressions
+        data_tests:
+          - not_null
+      - name: clicks
+        data_tests:
+          - not_null

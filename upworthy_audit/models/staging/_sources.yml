@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: upworthy_raw
+    schema: upworthy_raw
+    tables:
+      - name: exploratory_packages
